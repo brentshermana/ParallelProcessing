@@ -1,0 +1,16 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "code01.fit.edu",
+  "port": "22",
+  "target": "/udrive/student/ballard2014/project",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "ballard2014",
+  "password": "fitJeff1900***",
+  "watch": [],
+  "transport": "scp"
+}
